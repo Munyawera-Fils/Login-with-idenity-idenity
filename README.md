@@ -4,7 +4,7 @@ To get the codes, please open above App.jsx file.
 
 This is  the Explanation of the code you will see in App.jsx
 
-## Firstly, make sure you installed Identity identity in your project 
+## Firstly, make sure you installed Internet identity in your project 
 
 npm install @dfinity/auth-client
 
