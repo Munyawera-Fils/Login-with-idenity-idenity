@@ -4,7 +4,9 @@ To get the codes, please open above App.jsx file.
 
 This is  the Explanation of the code you will see in App.jsx
 
+# First make sure you installed Identity identity in your project 
 
+npm install @dfinity/auth-client
 
 # State Variables:
 
