@@ -1,6 +1,6 @@
 # Login-with-idenity-idenity
 
-To get the code, please open above App.jsx file.
+To get the codes, please open above App.jsx file.
 
 This is  the Explanation of the code you will see in App.jsx
 
