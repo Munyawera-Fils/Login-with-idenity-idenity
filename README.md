@@ -4,7 +4,7 @@ To get the codes, please open above App.jsx file.
 
 This is  the Explanation of the code you will see in App.jsx
 
-### Firstly, make sure you installed the necessary package for authentication for handling authentication with Internet Identity.
+### Firstly, make sure you installed the necessary package  for handling authentication with Internet Identity.
 
 npm install @dfinity/auth-client
 
