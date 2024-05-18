@@ -46,4 +46,5 @@ Sign In: Clicking the "Sign In" button triggers the signIn function, logging the
 Sign Out: Clicking the "Sign Out" button triggers the signOut function, logging the user out and updating the state.
 This example integrates the login/logout functionality with a simple React component and updates the UI based on the user's authentication status.
 
-Copyright  ## @ICP RWANDA
+Copyright 
+# ICP RWANDA
