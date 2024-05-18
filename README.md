@@ -7,6 +7,10 @@ npm install @dfinity/auth-client
 
 To get the codes, please open above App.jsx file.
 
+in this code you see wher ei import 
+
+import { example_backend } from 'declarations/example_backend';  // make sure you update this path according to yours. My created project was named example that's whay i have backend of example_backend 
+
 This is  the Explanation of the code you will see in App.jsx
 
 
