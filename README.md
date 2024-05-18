@@ -9,7 +9,9 @@ To get the codes, please open above App.jsx file.
 
 ### in this code you will see where i import
 
-import { example_backend } from 'declarations/example_backend'; // make sure you update this path according to yours. My created project ] named { example } that's why i have a declaration  backend of example_backend
+import { example_backend } from 'declarations/example_backend'; 
+
+// make sure you update this path according to yours. My created project I named it  { example } that's why i have a declaration  backend of example_backend
 
 This is  the Explanation of the code you will see in App.jsx
 
